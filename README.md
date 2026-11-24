@@ -1,4 +1,4 @@
-# Sentiment Classification of Sephora Skincare Reviews: from Bag-of-Words to BERT
+# Sentiment Classification of Sephora Skincare Reviews
 
 How well can NLP models read the sentiment of real skincare reviews, and do context-aware models actually beat simple word-frequency models? This project compares eight approaches on **1.09 million Sephora reviews**: TF-IDF classifiers, Word2Vec, fine-tuned TinyBERT and DistilBERT, and GPT-5-mini prompting. It also prototypes a **review-based product recommender**.
 
